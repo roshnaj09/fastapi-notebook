@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="swaggerr" src="https://github.com/user-attachments/assets/69d6b9dd-3d58-41c0-a299-e4e36a2d0641" />
 # FastAPI Notebook App
 
 A simple notebook application built using FastAPI.
