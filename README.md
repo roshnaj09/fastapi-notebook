@@ -40,3 +40,7 @@ http://127.0.0.1:8000/docs
 ## Author
 
 Roshna J
+
+## Swagger UI
+
+![Swagger UI](screenshots/swagger.png)
